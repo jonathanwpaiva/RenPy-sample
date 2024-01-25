@@ -122,6 +122,8 @@ label solution:
     scene background freshwomen
     mascoooot "Agora vou jogar alguma coisa pra relaxar e torcer"
 
+    return
+
 label easyApply:
 
     scene background
@@ -151,4 +153,6 @@ label easyApply:
     show sleepy face
 
     mascoooot "Isso ja era esperado... vou dormir mais um pouco pois ainda estou com sono"
+
+    return
 
